@@ -1,0 +1,23 @@
+1. ¿Diferencia entre <head> y <header>?
+Head va informacion como el titulo de la pagina web, meta datos, informacion para el navegador mientras que el header es para el encabezado de la pagina web como en un word
+
+2. ¿Diferencia entre <title> y <h1>?
+El <title> define el texto que aparece en la pestaña del navegador y en los resultados de búsqueda, no se muestra dentro de la página. El <h1> es el título principal visible en el contenido de la página.
+
+3. ¿Por qué es importante el atributo alt?
+Le da un texto alternativo, por lo que tengo entendido si alguien entra con narrador al ver la imagen seria como leer el texto alternativo que dice
+
+4. ¿Qué función cumple <nav>?
+Pues como su nombre indica es para la navegacion da que secciones principales y aveces hasta secundarias se puede acceder
+
+5. ¿Por qué usar etiquetas semánticas?
+Para que el navegador pueda interpretar correctamente que se desea realizar con eso
+
+6. ¿Qué pasa si la ruta de la imagen es incorrecta?
+La imagen no se mostraria se veria como un error o un icono de que falta la imagen
+
+7. ¿Por qué el archivo principal se llama index.html?
+Normalemente los sitios de hosting reconocen este archivo como la pagina principal y es comun que se llame index.html porque se sabe que esa es la pagina de inicio o la principal
+
+8. ¿HTML es un lenguaje de programación? Justificar.
+No es un lenguaje de programación es un lenguaje de estructuras/etiquetas, porque no te permite realizar operaciones como ciclos, condicionales, sumas o restas directamente, al contrario de PHP php es un lenguaje de programación que tambien maneja etiquetas
